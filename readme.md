@@ -4,8 +4,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework) -->
-![License](https://poser.pugx.org/laravel/framework/license.svg)
 
+![License](https://poser.pugx.org/laravel/framework/license.svg)
+![License](https://lh3.googleusercontent.com/B4UqYZ4WaTlDrAn7zW08KjtITgO7Egm8e5Tx5Or7DVn0KWwH_D1q7zj9yB1ZZR8fNCWyhX1CaJsbsCitV4U3=w1940-h932-rw)
 Creación de Web Autoadministrable by laravel
 
 ## Web oficial
