@@ -6,11 +6,11 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework) -->
 
 ![License](https://poser.pugx.org/laravel/framework/license.svg)
-![License](https://lh3.googleusercontent.com/B4UqYZ4WaTlDrAn7zW08KjtITgO7Egm8e5Tx5Or7DVn0KWwH_D1q7zj9yB1ZZR8fNCWyhX1CaJsbsCitV4U3=w1940-h932-rw)
+<!--![License](https://lh3.googleusercontent.com/B4UqYZ4WaTlDrAn7zW08KjtITgO7Egm8e5Tx5Or7DVn0KWwH_D1q7zj9yB1ZZR8fNCWyhX1CaJsbsCitV4U3=w1940-h932-rw)
 
 <p>
   <img src="https://lh3.googleusercontent.com/B4UqYZ4WaTlDrAn7zW08KjtITgO7Egm8e5Tx5Or7DVn0KWwH_D1q7zj9yB1ZZR8fNCWyhX1CaJsbsCitV4U3=w1940-h932-rw" width="100" height="100">
-</p>
+</p> -->
 Creación de Web Autoadministrable by laravel
 
 ## Web oficial
